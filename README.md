@@ -1,16 +1,19 @@
-### Hi there 👋
+### 🙋 Many Faces
 
-<!--
-**adriaandegroot/adriaandegroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [My blog](https://euroquis.nl/bobulate/)
+- [My KDE hat](https://invent.kde.org/adridg)
+- [My FreeBSD hat](https://wiki.freebsd.org/AdriaanDeGroot)
+- [My GitLab hat](https://gitlab.com/adriaandegroot)
 
-Here are some ideas to get you started:
+### 💬 Recent Posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📫 Contact
+
+- Email me `@KDE` or `@FreeBSD`
+- Twit me `@kdedude`
+- IRC me `[ade]` on Freenode
+- Pronoun me he / him
+
