@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KDE e.V. board meeting January 2021 (2)](https://euroquis.nl//kde/2021/01/18/board2.html)
 - [KDE e.V. board meeting January 2021](https://euroquis.nl//kde/2021/01/16/kdeev.html)
 - [Year end blowout!](https://euroquis.nl//blabla/2020/12/31/yearend.html)
 - [Improving developer setup](https://euroquis.nl//kde/2020/12/24/plamo-devel.html)
 - [Hardware: a Sharkoon PC Case](https://euroquis.nl//blabla/2020/12/21/case.html)
-- [Plasma Mobile Installation on a Desktop](https://euroquis.nl//calamares/2020/12/19/plamo.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
