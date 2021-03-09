@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick-publishing of poudriere packages](https://euroquis.nl//freebsd/2021/03/08/poudriere.html)
 - [bhyve for Calamares Development](https://euroquis.nl//freebsd/2021/03/05/bhyve.html)
 - [ABI checking](https://euroquis.nl//kde/2021/03/03/abi.html)
 - [Calamares CI Extended](https://euroquis.nl//blabla/2021/02/17/calamares-ci.html)
 - [KDE on FreeBSD 2021O1](https://euroquis.nl//kde/2021/02/13/freebsd.html)
-- [KDE’s Fiduciary Licensing Agreement](https://euroquis.nl//kde/2021/02/09/fla.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
