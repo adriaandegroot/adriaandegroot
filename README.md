@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wayland on FreeBSD](https://euroquis.nl//freebsd/2021/03/16/wayland.html)
 - [FreeBSD switches to git](https://euroquis.nl//freebsd/2021/03/12/fbsd-git.html)
 - [Quick-publishing of poudriere packages](https://euroquis.nl//freebsd/2021/03/08/poudriere.html)
 - [bhyve for Calamares Development](https://euroquis.nl//freebsd/2021/03/05/bhyve.html)
 - [ABI checking](https://euroquis.nl//kde/2021/03/03/abi.html)
-- [Calamares CI Extended](https://euroquis.nl//blabla/2021/02/17/calamares-ci.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
