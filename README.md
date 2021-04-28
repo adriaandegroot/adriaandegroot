@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CMake Bitrot](https://euroquis.nl//blabla/2021/04/27/bitrot.html)
 - [KDE e.V. board meeting April 2021](https://euroquis.nl//kde/2021/04/25/board.html)
 - [FreeBSD meetings on the Desktop](https://euroquis.nl//freebsd/2021/04/20/fbsd-bbb.html)
 - [Season of KDE: Calamares](https://euroquis.nl//calamares/2021/04/19/sok.html)
 - [Steam on FreeBSD](https://euroquis.nl//freebsd/2021/04/06/steam-freebsd.html)
-- [Some Calamares Packaging](https://euroquis.nl//calamares/2021/04/05/cala-packaging.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
