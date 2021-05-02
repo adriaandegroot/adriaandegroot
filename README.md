@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wayland on FreeBSD with AMDGPU](https://euroquis.nl//kde/2021/05/01/wayland.html)
 - [KDE Plasma Wayland on FreeBSD](https://euroquis.nl//kde/2021/04/30/wayland.html)
 - [CMake Bitrot](https://euroquis.nl//blabla/2021/04/27/bitrot.html)
 - [KDE e.V. board meeting April 2021](https://euroquis.nl//kde/2021/04/25/board.html)
 - [FreeBSD meetings on the Desktop](https://euroquis.nl//freebsd/2021/04/20/fbsd-bbb.html)
-- [Season of KDE: Calamares](https://euroquis.nl//calamares/2021/04/19/sok.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
