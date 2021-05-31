@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KDE on FreeBSD – IRC channels](https://euroquis.nl//freebsd/2021/05/30/kde-freebsd-communications.html)
 - [Communications Channels](https://euroquis.nl//calamares/2021/05/26/calamares-communications.html)
 - [FreeBSD on the Pine H6](https://euroquis.nl//freebsd/2021/05/14/h6.html)
 - [KDE on FreeBSD 2021o3](https://euroquis.nl//freebsd/2021/05/13/freebsd-o3.html)
 - [KDE e.V. AGM at Akademy](https://euroquis.nl//kde/2021/05/10/agm.html)
-- [KDE Plasma Wayland - a week in FreeBSD](https://euroquis.nl//kde/2021/05/09/wayland.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
