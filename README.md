@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Akonadi+MySQL 5.7.34 on FreeBSD](https://euroquis.nl//kde/2021/06/27/akonadi.html)
+- [My Akademy 2021 (2)](https://euroquis.nl//kde/2021/07/09/akademy.html)
 - [KDE on FreeBSD 2021o4](https://euroquis.nl//freebsd/2021/06/27/freebsd-o4.html)
+- [Akonadi+MySQL 5.7.34 on FreeBSD](https://euroquis.nl//kde/2021/06/27/akonadi.html)
 - [My Akademy 2021](https://euroquis.nl//kde/2021/06/20/akademy.html)
 - [GitHub Notification Actions](https://euroquis.nl//calamares/2021/06/17/actions.html)
-- [KDE on FreeBSD – IRC channels](https://euroquis.nl//freebsd/2021/05/30/kde-freebsd-communications.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
