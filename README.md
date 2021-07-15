@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VirtualBox with FreeBSD + KDE](https://euroquis.nl//kde/2021/07/14/vboxfbsdkde.html)
 - [Repairing Akonadi on FreeBSD](https://euroquis.nl//kde/2021/07/12/akonadi.html)
 - [FreeBSD KDE Frameworks dependencies](https://euroquis.nl//kde/2021/07/10/dependencies.html)
 - [My Akademy 2021 (2)](https://euroquis.nl//kde/2021/07/09/akademy.html)
 - [KDE on FreeBSD 2021o4](https://euroquis.nl//freebsd/2021/06/27/freebsd-o4.html)
-- [Akonadi+MySQL 5.7.34 on FreeBSD](https://euroquis.nl//kde/2021/06/27/akonadi.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
