@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Early Selfies](https://euroquis.nl//blabla/2021/09/20/selfies.html)
 - [Plasma System Monitor and FreeBSD](https://euroquis.nl//kde/2021/09/15/systemmonitor.html)
 - [Translation Sadness](https://euroquis.nl//calamares/2021/09/13/translation.html)
 - [After Summer](https://euroquis.nl//blabla/2021/08/30/after.html)
 - [Summer 2021](https://euroquis.nl//blabla/2021/08/18/summer.html)
-- [VirtualBox guest additions in FreeBSD](https://euroquis.nl//kde/2021/07/17/guest.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
