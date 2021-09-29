@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python modules in Calamares](https://euroquis.nl//calamares/2021/09/29/pylint.html)
 - [Early Selfies](https://euroquis.nl//blabla/2021/09/20/selfies.html)
 - [Plasma System Monitor and FreeBSD](https://euroquis.nl//kde/2021/09/15/systemmonitor.html)
 - [Translation Sadness](https://euroquis.nl//calamares/2021/09/13/translation.html)
 - [After Summer](https://euroquis.nl//blabla/2021/08/30/after.html)
-- [Summer 2021](https://euroquis.nl//blabla/2021/08/18/summer.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
