@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Buggle](https://euroquis.nl//freebsd/2022/05/16/buggle.html)
 - [VM &lpar;VM &lpar; …](https://euroquis.nl//freebsd/2022/05/05/inception.html)
 - [Calamares Future](https://euroquis.nl//calamares/2022/05/04/calamares.html)
 - [Post-LAS](https://euroquis.nl//blabla/2022/05/03/las2.html)
 - [Linux Application Summit 2022](https://euroquis.nl//blabla/2022/04/26/las.html)
-- [KDE-FreeBSD CI](https://euroquis.nl//kde/2022/04/26/freebsd-ci.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
