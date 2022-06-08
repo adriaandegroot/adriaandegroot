@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KDE e.V. Board Meeting 2022](https://euroquis.nl//kde/2022/06/07/board-meeting.html)
 - [Calamares Handoff](https://euroquis.nl//calamares/2022/05/29/calamares-handoff.html)
 - [Blue Systems Farewell](https://euroquis.nl//calamares/2022/05/21/calamares-farewell.html)
 - [Daily Buggle](https://euroquis.nl//freebsd/2022/05/16/buggle.html)
 - [VM &lpar;VM &lpar; …](https://euroquis.nl//freebsd/2022/05/05/inception.html)
-- [Calamares Future](https://euroquis.nl//calamares/2022/05/04/calamares.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
