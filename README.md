@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Community Calamares](https://euroquis.nl//kde/2022/08/27/lookback.html)
 - [ZFS volumes and VirtualBox](https://euroquis.nl//freebsd/2022/08/16/zvol.html)
 - [Mini-Talks Published](https://euroquis.nl//blabla/2022/07/29/presentations.html)
 - [KDE Plasma 5.25 delayed on FreeBSD](https://euroquis.nl//freebsd/2022/07/26/plasma-delay.html)
 - [FLA Two](https://euroquis.nl//kde/2022/06/21/fla.html)
-- [Kate + Building in Docker](https://euroquis.nl//kde/2022/06/14/kate.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
