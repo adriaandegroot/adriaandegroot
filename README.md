@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perry’s Spel van 16](https://euroquis.nl//blabla/2022/10/09/perry.html)
 - [Akademy Awards 2022](https://euroquis.nl//kde/2022/10/07/awards.html)
 - [Community Calamares](https://euroquis.nl//kde/2022/08/27/lookback.html)
 - [ZFS volumes and VirtualBox](https://euroquis.nl//freebsd/2022/08/16/zvol.html)
 - [Mini-Talks Published](https://euroquis.nl//blabla/2022/07/29/presentations.html)
-- [KDE Plasma 5.25 delayed on FreeBSD](https://euroquis.nl//freebsd/2022/07/26/plasma-delay.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
