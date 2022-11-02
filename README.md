@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fosstodon!](https://euroquis.nl//blabla/2022/11/01/fosstodon.html)
+- [Work-work &lpar;in glass&rpar;](https://euroquis.nl//blabla/2022/10/31/work.html)
 - [Perry’s Spel van 16](https://euroquis.nl//blabla/2022/10/09/perry.html)
 - [Akademy Awards 2022](https://euroquis.nl//kde/2022/10/07/awards.html)
 - [Community Calamares](https://euroquis.nl//kde/2022/08/27/lookback.html)
-- [ZFS volumes and VirtualBox](https://euroquis.nl//freebsd/2022/08/16/zvol.html)
-- [Mini-Talks Published](https://euroquis.nl//blabla/2022/07/29/presentations.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
