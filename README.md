@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Buggle &lpar;2&rpar;](https://euroquis.nl//freebsd/2022/11/13/buggle.html)
 - [I got some badges](https://euroquis.nl//blabla/2022/11/05/badges.html)
 - [Fosstodon!](https://euroquis.nl//blabla/2022/11/01/fosstodon.html)
 - [Work-work &lpar;in glass&rpar;](https://euroquis.nl//blabla/2022/10/31/work.html)
 - [Perry’s Spel van 16](https://euroquis.nl//blabla/2022/10/09/perry.html)
-- [Akademy Awards 2022](https://euroquis.nl//kde/2022/10/07/awards.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
