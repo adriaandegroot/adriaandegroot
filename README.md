@@ -30,7 +30,7 @@
 
 - 📧 `groot@KDE`
 - 📧 `adridg@FreeBSD`
-- Twit me `@kdedude`
+- Toot me `@kdedude@fosstodon.org`
 - IRC me `[ade]`
 - Pronoun me he / him
 </td>
