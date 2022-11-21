@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strong Booleans](https://euroquis.nl//blabla/2022/11/21/strong-bool.html)
+- [Post-Akademy](https://euroquis.nl//kde/2022/11/20/akademy.html)
 - [80/20 Refactoring](https://euroquis.nl//kde/2022/11/14/refactor.html)
 - [Daily Buggle &lpar;2&rpar;](https://euroquis.nl//freebsd/2022/11/13/buggle.html)
 - [I got some badges](https://euroquis.nl//blabla/2022/11/05/badges.html)
-- [Fosstodon!](https://euroquis.nl//blabla/2022/11/01/fosstodon.html)
-- [Work-work &lpar;in glass&rpar;](https://euroquis.nl//blabla/2022/10/31/work.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
