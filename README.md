@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Summit and Calamares](https://euroquis.nl//calamares/2023/01/21/ubuntu.html)
 - [KDE e.V. board sprint, Berlin](https://euroquis.nl//kde/2022/12/01/board.html)
 - [Migrating dinner plans](https://euroquis.nl//blabla/2022/11/29/foods.html)
 - [Strong Booleans](https://euroquis.nl//blabla/2022/11/21/strong-bool.html)
 - [Post-Akademy](https://euroquis.nl//kde/2022/11/20/akademy.html)
-- [80/20 Refactoring](https://euroquis.nl//kde/2022/11/14/refactor.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
