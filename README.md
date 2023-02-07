@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No FOSDEM for me](https://euroquis.nl//kde/2023/02/06/fosdem.html)
+- [FreeBSD is hiring, too!](https://euroquis.nl//freebsd/2023/02/06/freebsd.html)
 - [Ports updates in january 2023](https://euroquis.nl//freebsd/2023/01/24/ports.html)
 - [Ubuntu Summit and Calamares](https://euroquis.nl//calamares/2023/01/21/ubuntu.html)
 - [KDE e.V. board sprint, Berlin](https://euroquis.nl//kde/2022/12/01/board.html)
-- [Migrating dinner plans](https://euroquis.nl//blabla/2022/11/29/foods.html)
-- [Strong Booleans](https://euroquis.nl//blabla/2022/11/21/strong-bool.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
