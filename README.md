@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub 2FA](https://euroquis.nl//blabla/2023/03/21/github.html)
 - [FreeBSD 12.3 EoL](https://euroquis.nl//freebsd/2023/03/12/freebsd.html)
 - [Random FreeBSD Ports Updates](https://euroquis.nl//freebsd/2023/02/19/ports.html)
 - [FreeBSD is hiring, too!](https://euroquis.nl//freebsd/2023/02/06/freebsd.html)
 - [No FOSDEM for me](https://euroquis.nl//kde/2023/02/06/fosdem.html)
-- [Ports updates in january 2023](https://euroquis.nl//freebsd/2023/01/24/ports.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
