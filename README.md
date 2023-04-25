@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Akonadi with SQLite on FreeBSD](https://euroquis.nl//freebsd/2023/04/24/akonadi.html)
 - [GitHub 2FA](https://euroquis.nl//blabla/2023/03/21/github.html)
 - [FreeBSD 12.3 EoL](https://euroquis.nl//freebsd/2023/03/12/freebsd.html)
 - [Random FreeBSD Ports Updates](https://euroquis.nl//freebsd/2023/02/19/ports.html)
 - [FreeBSD is hiring, too!](https://euroquis.nl//freebsd/2023/02/06/freebsd.html)
-- [No FOSDEM for me](https://euroquis.nl//kde/2023/02/06/fosdem.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
