@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory Disks](https://euroquis.nl//freebsd/2023/05/30/memory.html)
 - [Core Distractions](https://euroquis.nl//kde/2023/05/26/riscv.html)
 - [Mnietballs](https://euroquis.nl//blabla/2023/04/28/mnietballs.html)
 - [CMake 3.26 update on FreeBSD](https://euroquis.nl//freebsd/2023/04/25/cmake.html)
 - [Akonadi with SQLite on FreeBSD](https://euroquis.nl//freebsd/2023/04/24/akonadi.html)
-- [GitHub 2FA](https://euroquis.nl//blabla/2023/03/21/github.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
