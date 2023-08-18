@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloomberg BDE on FreeBSD](https://euroquis.nl//freebsd/2023/08/17/bloomberg.html)
 - [My Akademy 2023](https://euroquis.nl//kde/2023/08/06/akademy.html)
 - [EV &lpar;Electric Vehicle, not the KDE thing&rpar;](https://euroquis.nl//blabla/2023/07/24/ev.html)
 - [RISC-V Pinout](https://euroquis.nl//kde/2023/07/05/pinout.html)
 - [Qt Commercial License](https://euroquis.nl//blabla/2023/07/04/qtcommercial.html)
-- [Ranges &lpar;C++20&rpar;](https://euroquis.nl//kde/2023/06/25/ranges.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
