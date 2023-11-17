@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Calamares 3.3.0-alpha5](https://euroquis.nl//calamares/2023/11/14/calamares.html)
+- [C++23 Characters](https://euroquis.nl//blabla/2023/11/16/cpp.html)
 - [GPG Key Update](https://euroquis.nl//blabla/2023/11/14/gpg.html)
+- [Calamares 3.3.0-alpha5](https://euroquis.nl//calamares/2023/11/14/calamares.html)
 - [Calamares &amp;amp; Arch &lpar;Derivatives&rpar;](https://euroquis.nl//calamares/2023/10/22/calamares.html)
 - [Calamares CI](https://euroquis.nl//kde/2023/10/03/calamares-ci.html)
-- [Calamares Qt6](https://euroquis.nl//kde/2023/09/09/calamares.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
