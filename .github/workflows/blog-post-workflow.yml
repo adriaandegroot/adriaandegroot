@@ -10,7 +10,7 @@ jobs:
    name: Update this repo's README with latest blog posts
    runs-on: ubuntu-latest
    steps:
-     - uses: actions/checkout@v5
+     - uses: actions/checkout@v4
      - uses: gautamkrishnar/blog-post-workflow@1.8.7
        with:
          # Replace this URL with your rss feed URL/s
