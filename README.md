@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git quality of life &lpar;2&rpar;](https://euroquis.nl//blabla/2024/06/01/git.html)
 - [Amaroking FreeBSD](https://euroquis.nl//kde/2024/05/01/amarok.html)
 - [File modes in C++20](https://euroquis.nl//blabla/2024/04/30/chmod.html)
 - [KDE e.V. board meeting](https://euroquis.nl//kde/2024/04/25/kdeev.html)
 - [KDE Plasma 6 on FreeBSD – testing](https://euroquis.nl//kde/2024/03/24/plasma6testing.html)
-- [KDE MacOS CI](https://euroquis.nl//kde/2024/03/23/macos.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
