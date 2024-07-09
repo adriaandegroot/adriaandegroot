@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calamares ABI Checking](https://euroquis.nl//calamares/2024/07/08/abi.html)
 - [Kids ‘n Billies 2024 &lpar;Music Review&rpar;](https://euroquis.nl//blabla/2024/07/07/billies.html)
 - [Calamares &amp;amp; some Distro Notes](https://euroquis.nl//calamares/2024/07/03/kubuntu.html)
 - [Serving up git trees](https://euroquis.nl//freebsd/2024/06/13/freebsd13_2.html)
 - [Needlessly Public](https://euroquis.nl//kde/2024/06/06/public.html)
-- [FreeBSD 13 Testing](https://euroquis.nl//freebsd/2024/06/04/freebsd13.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
