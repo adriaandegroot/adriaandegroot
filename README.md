@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KDE Plasma Wayland keyboard layouts](https://euroquis.nl//kde/2024/09/14/keyboard.html)
 - [Message-passing APIs &lpar;SIMPL&rpar;](https://euroquis.nl//blabla/2024/08/20/simpl.html)
 - [GPG Key Update](https://euroquis.nl//blabla/2024/07/31/gpg.html)
 - [Calamares ABI Checking](https://euroquis.nl//calamares/2024/07/08/abi.html)
 - [Kids ‘n Billies 2024 &lpar;Music Review&rpar;](https://euroquis.nl//blabla/2024/07/07/billies.html)
-- [Calamares &amp;amp; some Distro Notes](https://euroquis.nl//calamares/2024/07/03/kubuntu.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
