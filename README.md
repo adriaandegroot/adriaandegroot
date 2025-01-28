@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Calamares towards 3.3.11](https://euroquis.nl//calamares/2024/10/24/calamares.html)
+- [That is how E-Waste is made](https://euroquis.nl//blabla/2025/01/27/e-waste.html)
 - [EBN lives?](https://euroquis.nl//blabla/2024/10/24/ebn.html)
+- [Calamares towards 3.3.11](https://euroquis.nl//calamares/2024/10/24/calamares.html)
 - [Python and SysV shared memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 - [Plasma6 and FreeBSD 14](https://euroquis.nl//kde/2024/10/08/freebsd14.html)
-- [KDE Plasma Wayland keyboard layouts](https://euroquis.nl//kde/2024/09/14/keyboard.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
