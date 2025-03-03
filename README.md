@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FreeBSD and KDE Plasma generations](https://euroquis.nl//freebsd/2025/03/02/kde5.html)
 - [GPG Updates 2025](https://euroquis.nl//blabla/2025/03/01/gpg.html)
 - [It goes to 6!](https://euroquis.nl//kde/2025/02/03/it-goes-to-6.html)
 - [That is how E-Waste is made](https://euroquis.nl//blabla/2025/01/27/e-waste.html)
 - [EBN lives?](https://euroquis.nl//blabla/2024/10/24/ebn.html)
-- [Calamares towards 3.3.11](https://euroquis.nl//calamares/2024/10/24/calamares.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
