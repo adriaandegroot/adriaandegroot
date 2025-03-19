@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NFS setup in FreeBSD](https://euroquis.nl/freebsd/2025/03/18/nfs.html)
 - [Framework 13 AMD Setup with FreeBSD](https://euroquis.nl/freebsd/2025/03/16/framework.html)
 - [Bran Muffins Recipe](https://euroquis.nl/blabla/2025/03/15/bran-muffins.html)
 - [FreeBSD and KDE Plasma generations](https://euroquis.nl/freebsd/2025/03/02/kde5.html)
 - [GPG Updates 2025](https://euroquis.nl/blabla/2025/03/01/gpg.html)
-- [It goes to 6!](https://euroquis.nl/kde/2025/02/03/it-goes-to-6.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
