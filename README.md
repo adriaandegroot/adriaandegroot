@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brownies Recipe](https://euroquis.nl/blabla/2025/06/24/brownies.html)
 - [StarFive VisionFive v2 and FreeBSD](https://euroquis.nl/freebsd/2025/05/20/sifive.html)
 - [KDE Plasma 6 on FreeBSD on Framework 13](https://euroquis.nl/freebsd/2025/03/23/framework.html)
 - [NFS setup in FreeBSD](https://euroquis.nl/freebsd/2025/03/18/nfs.html)
 - [Framework 13 AMD Setup with FreeBSD](https://euroquis.nl/freebsd/2025/03/16/framework.html)
-- [Bran Muffins Recipe](https://euroquis.nl/blabla/2025/03/15/bran-muffins.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
