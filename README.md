@@ -16,11 +16,11 @@
 ### 💬 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FreeBSD upgrade-to-15](https://euroquis.nl/freebsd/2026/01/02/freebsd.html)
+- [FreeBSD 14-to-15 Upgrade &lpar;Intel&rpar;](https://euroquis.nl/freebsd/2026/01/03/freebsd.html)
+- [Carrot Cake Recipe](https://euroquis.nl/blabla/2026/01/03/wortelcake.html)
 - [Oliebollen Recipe](https://euroquis.nl/blabla/2026/01/02/oliebollen.html)
+- [FreeBSD upgrade-to-15](https://euroquis.nl/freebsd/2026/01/02/freebsd.html)
 - [Recovering a Botched FreeBSD 14 Upgrade](https://euroquis.nl/freebsd/2025/12/09/freebsd-upgrade.html)
-- [FreeBSD 14 and KDE](https://euroquis.nl/kde/2025/12/03/freebsd14.html)
-- [Alternative Timezone Naming in Calamares](https://euroquis.nl/calamares/2025/11/11/timezones.html)
 <!-- BLOG-POST-LIST:END -->
 </td>
 
